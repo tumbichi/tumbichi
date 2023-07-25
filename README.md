@@ -1,5 +1,5 @@
-### Hi, I'm Pity a Software Engineer from Argentina 👋🇦🇷
-### Hola, Soy Pity un Ingeniero de Software de Argentina 👋🇺🇸
+### Hi, I'm Pity a Software Engineer from Argentina 👋🇺🇸
+### Hola, Soy Pity un Ingeniero de Software de Argentina 👋🇦🇷
 ### Oi, Eu sou Pity um Engenheiro de software da Argentina 👋🇧🇷
 
 ![](https://komarev.com/ghpvc/?username=tumbichi)
